@@ -1,0 +1,9 @@
+com\lwx\controller\UserController.class
+com\lwx\service\UserService.class
+com\lwx\base\BaseService.class
+com\lwx\base\BaseQuery.class
+com\lwx\base\AssertUtil.class
+com\lwx\base\ParamException.class
+com\lwx\base\BaseMapper.class
+com\lwx\po\User.class
+com\lwx\dao\UserMapper.class
